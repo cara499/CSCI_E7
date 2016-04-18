@@ -1,0 +1,1 @@
+Projects for Harvard Extension School CSCI E7, Programming with Python.
