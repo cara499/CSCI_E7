@@ -1,5 +1,5 @@
-#title           :week11_1.py
-#description     :GUI application to covert temperature in Celsius to Fahrenheit.
+#title           :CtoF.py
+#description     :GUI application to convert temperature in Celsius to Fahrenheit.
 #author          :Caroline Smith
 #date            :04/17/16
 #python_version  :3.5.1 
