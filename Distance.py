@@ -1,4 +1,4 @@
-#title           :week12_2.py
+#title           :Distance.py
 #description     :GUI to query Google API for the distance and the travel time between two locations.
 #author          :Caroline Smith
 #date            :04/24/16
